@@ -78,6 +78,7 @@ The system utilizes MQ-2, MQ-135, and IR flame sensors to analyze the surroundin
 ```text
 .
 ├── Images/
+├── Codes/
 ├── Documentation.pdf
 ├── Prototype Model.SLDPRT
 └── README.md
