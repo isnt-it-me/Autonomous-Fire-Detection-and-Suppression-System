@@ -1,10 +1,10 @@
-# 🔥 Autonomous Fire Detection and Suppression System
+# Autonomous Fire Detection and Suppression System
 
 An intelligent fire detection and suppression system capable of identifying fire types using sensor fusion and automatically deploying the appropriate extinguishing response.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Traditional fire suppression systems often deploy the same extinguishing agent regardless of the fire source, which can be ineffective or even dangerous. This project introduces an autonomous solution that detects, classifies, targets, and suppresses fires using ESP32-based control and multiple environmental sensors.
 
@@ -12,7 +12,7 @@ The system utilizes MQ-2, MQ-135, and IR flame sensors to analyze the surroundin
 
 ---
 
-## ✨ Features
+## Features
 
 * Real-time fire detection
 * Fire classification using sensor fusion
@@ -24,7 +24,7 @@ The system utilizes MQ-2, MQ-135, and IR flame sensors to analyze the surroundin
 
 ---
 
-## 🛠 Hardware Components
+## Hardware Components
 
 * ESP32 Development Board
 * MQ-2 Gas Sensor
@@ -36,7 +36,7 @@ The system utilizes MQ-2, MQ-135, and IR flame sensors to analyze the surroundin
 
 ---
 
-## ⚙️ Working Principle
+## Working Principle
 
 1. IR sensor detects an active flame.
 2. MQ-2 and MQ-135 analyze gases and smoke.
@@ -47,7 +47,7 @@ The system utilizes MQ-2, MQ-135, and IR flame sensors to analyze the surroundin
 
 ---
 
-# 📸 Project Images
+# Project Images
 
 ## CAD Model
 
@@ -73,7 +73,7 @@ The system utilizes MQ-2, MQ-135, and IR flame sensors to analyze the surroundin
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 ```text
 .
@@ -85,7 +85,7 @@ The system utilizes MQ-2, MQ-135, and IR flame sensors to analyze the surroundin
 
 ---
 
-## 🚀 Applications
+## Applications
 
 * Smart Homes
 * Data Centers
@@ -95,7 +95,7 @@ The system utilizes MQ-2, MQ-135, and IR flame sensors to analyze the surroundin
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 * Full 2-axis turret coverage
 * Computer Vision integration (YOLOv8)
@@ -106,7 +106,7 @@ The system utilizes MQ-2, MQ-135, and IR flame sensors to analyze the surroundin
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 * Shubh Bagaria
 * Ashutosh Tanguria
